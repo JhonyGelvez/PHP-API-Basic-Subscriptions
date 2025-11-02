@@ -9,7 +9,7 @@ A simple backend API built with PHP and MySQL to register users and verify their
 - JSON responses  
 - Simple and clean API structure  
 
-## 🛠 Tech Stack
+## Tech Stack
 - PHP  
 - MySQL  
 - Apache/XAMPP  
