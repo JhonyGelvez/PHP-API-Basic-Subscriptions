@@ -2,7 +2,7 @@
 
 A simple backend API built with PHP and MySQL to register users and verify their subscription status.
 
-## ✅ Features
+## Features
 - Add new users  
 - Check subscription status  
 - MySQL database connection  
@@ -14,7 +14,7 @@ A simple backend API built with PHP and MySQL to register users and verify their
 - MySQL  
 - Apache/XAMPP  
 
-## 🚀 How to Use
+## How to Use
 
 1. Import the following SQL table:
 ```
@@ -31,5 +31,5 @@ CREATE TABLE users (
 - **POST** `/create_user.php`  
 - **GET** `/verify_subscription.php?email=example@mail.com`
 
-## 🎯 Purpose
+## Purpose
 Shows backend logic, REST API creation, and MySQL CRUD operations.
